@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '一叶知秋',
-  domain: 'transitivebullsh.it',
+  domain: 'https://puzzled-llama-14e.notion.site/Getting-Started-b7503fc4de4d4377a50f4c6dea192c0b',
   author: '61755185',
 
   // open graph metadata (optional)
